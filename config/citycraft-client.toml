@@ -4,3 +4,5 @@
 	update-checker = true
 	#Enables tooltips for some blocks/items in your inventory
 	enable_tooltips = true
+	#Enables some description for some blocks/items in JEI
+	enable_descriptions = true
